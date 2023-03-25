@@ -1,6 +1,33 @@
-<center> <h1>HBNB - The Console</h1> </center>
+# AirBnB clone - MySQL
 
-This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
+This directory contains all the tasks of the project "0x02. AirBnB clone - MySQL" at [Holberton School](https://www.holbertonschool.com "Holberton School.")
+![GitHub repo size](https://img.shields.io/github/repo-size/luismvargasg/AirBnB_clone_v2?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/luismvargasg/AirBnB_clone_v2?style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/luismvargasg/AirBnB_clone_v2?style=for-the-badge) [![Luis Miguel Vargas](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fluismvargasg1)](https://twitter.com/luismvargasg1) [![Robinson Montes](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmecomontes)](https://twitter.com/mecomontes)
+
+## Table of Contents
+
+- [AirBnB clone - MySQL](#airbnb-clone---mysql)
+  - [Table of Contents](#table-of-contents)
+  - [Project General Objectives](#project-general-objectives)
+  - [Project Description](#project-description)
+  - [Directory Files Description](#directory-files-description)
+  - [Prerequisites](#prerequisites)
+  - [Built With](#built-with)
+  - [AUTHORS](#authors)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
+
+## Project General Objectives
+
+* What is Unit testing and how to implement it in a large project.
+* What is *args and how to use it.
+* What is **kwargs and how to use it.
+* How to handle named arguments in a function.
+* How to create a MySQL database.
+* How to create a MySQL user and grant it privileges.
+* What ORM means.
+* How to map a Python Class to a MySQL table.
+* How to handle 2 different storage engines with the same codebase.
+* How to use environment variables.
 
 ---
 
